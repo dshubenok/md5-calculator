@@ -1,0 +1,5 @@
+[run]
+include = md5_calculator/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
